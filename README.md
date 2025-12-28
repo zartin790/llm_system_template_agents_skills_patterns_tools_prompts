@@ -11,10 +11,7 @@ This repo keeps AI agents, skills, and Fabric patterns portable across vendors (
 ## Using the patterns
 Patterns originate from [Fabric](https://github.com/danielmiessler/Fabric). Run them with the Fabric CLI, chain them together, or embed them into your own workflows. They remain useful as plain prompts even without Fabric installed.
 
-## Guidance
-See `instructions.md` for local environment notes and navigation tips for agents, skills, and patterns.
-
-- Local customizations: keep your own secrets in a local `.env` (git-ignored here). Personal tooling lives in `tools/`—this repo ignores that folder to stay portable; you can add your own scripts or MCP servers locally without affecting the template.
+- Local customizations: keep your own secrets in a local `.env` (git-ignored here). Personal tooling lives in `tools/`—this repo ignores that folder to stay portable; you can add your own scripts or MCP servers locally without affecting the template. I also use an instructions.md to explain to the provider what operation system they are in, etc. also git ignored.
 
 ## License
 MIT

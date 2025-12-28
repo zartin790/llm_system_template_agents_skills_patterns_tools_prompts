@@ -1,0 +1,22 @@
+# Environment secrets
+.env
+.env.*
+
+# Local tools and binaries
+/tools/
+
+# Personal/local docs
+instructions.md
+
+# Logs and outputs
+*.log
+*.out
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
+*.swp

